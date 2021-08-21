@@ -1,2 +1,2 @@
 # mysite
-[live demo link ]https://github.io/ositaadimma/mysite
+[live demo link] https://ositaadimma.github.io/mysite/
